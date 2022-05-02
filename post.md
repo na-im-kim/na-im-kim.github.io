@@ -1,4 +1,4 @@
----
+
 # github.io 블로그  첫 글
 
 github.io 블로그 ***첫 글*** 작성해봅니다.
@@ -18,6 +18,7 @@ _categories:_
 
 
 [^1]: Footnote 
----
 
+---
 page.last_modified_at
+---
