@@ -17,4 +17,4 @@ _categories:_
 
 
 
-[^1]: Footnot
+[^1]: Footnote 
