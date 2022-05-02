@@ -11,7 +11,7 @@ _categories:_
 
   - Blog[^1].
 
-{{ page.last_modified_at }}
+page.last_modified_at
 
 
 
