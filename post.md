@@ -5,16 +5,16 @@
 
 _categories:_
 
- - Blog[Link](https://img.theqoo.net/img/ptLYR.jpg)
+ - Blog [귀여운 핑구 사진](https://img.theqoo.net/img/ptLYR.jpg)
 
 ~~tags:~~
 
   - Blog[^1].
 
-last_modified_at: 2019-04-13T08:06:00-05:00
+{{ page.last_modified_at }}
 
 
 
 
 
-[^1]: My reference.
+[^1]: Footnot
