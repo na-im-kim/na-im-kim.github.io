@@ -3,11 +3,11 @@
 **github.io 블로그 첫 글 작성해봅니다.**
 
 
-categories:
+_categories:_
 
-  - Blog
+ * - Blog*
 
-tags:
+~~tags:~~
 
   - Blog
 
