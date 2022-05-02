@@ -5,7 +5,7 @@
 
 _categories:_
 
- *- Blog*
+ - Blog[Link](https://img.theqoo.net/img/ptLYR.jpg)
 
 ~~tags:~~
 
